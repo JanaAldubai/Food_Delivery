@@ -1,0 +1,20 @@
+
+	 	   Shawarmar 	
+
+Delivery: 17.0SR 	     Minimum: 15.0SR
+
+
+1.Arabo Chicken Meal 	 	 26.0SR 
+ 
+2.Alrahya Meal 	 	 	 33.0SR 
+ 
+3.Protein Chicken Platter 	 36.0SR 
+ 
+4.Nahyfat Chicken Meal 	 	 27.0SR 
+ 
+5.Duo Meal 	 	 	 25.0SR 
+ 
+6.Jobna Bint Arabo Meal 	 36.0SR 
+
+
+Notice: enter the meal's number, and if you want to stop adding, enter 0.

@@ -1,0 +1,20 @@
+
+	 	   AlTazaj 	
+
+Delivery: 15.0SR 	     Minimum: 15.0SR
+
+
+1.Farouj 	 	 	 20.0SR 
+ 
+2.Broost 	 	 	 16.0SR 
+ 
+3.Kabsa 	 	 	 26.0SR 
+ 
+4.Kebab Rice With Pepsi 	 24.0SR 
+ 
+5.Kids Nuggets Meal 	 	 15.0SR 
+ 
+6.Burger Meal 	 	 	 15.0SR 
+
+
+Notice: enter the meal's number, and if you want to stop adding, enter 0.

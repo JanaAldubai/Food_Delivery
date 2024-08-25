@@ -1,0 +1,22 @@
+
+
+          Welecome to our program (The Faster)
+
+
+
+
+You have 6 restaurants, choose your order from them.
+
+
+Restaurant list 	 	Delivery price : 
+
+1-McDonald's	 	 	 14.0SR
+
+2-Hardee's	 	 	 16.0SR
+
+3-Maestro Pizza	 	 	 13.0SR
+
+4-Burger King	 	 	 13.0SR
+
+5-Shawarmar	 	 	 17.0SR
+

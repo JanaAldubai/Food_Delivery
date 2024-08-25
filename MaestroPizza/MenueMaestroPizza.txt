@@ -1,0 +1,20 @@
+
+             Maestro Pizza
+        
+
+Delivery: 13.0SR               Minimum: 10.0SR
+    
+   
+1.Dyanmite Shrimp                 30.0SR 
+
+2.Ranchyn Sunset                  20.0SR 
+
+3.Mexicana                        30.0SR 
+
+4.Margarita                       30.0SR 
+
+5.Vegetariana                     30.0SR 
+
+6.Chicken Wings                   22.0SR
+        
+Notice: enter the meal's number, and if you want to stop adding, enter 0.

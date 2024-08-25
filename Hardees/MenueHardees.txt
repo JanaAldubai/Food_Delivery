@@ -1,0 +1,22 @@
+
+
+                     Hardee's
+             
+
+Delivery:16.0SR                    Minumum:14.0SR
+
+
+1.Super Star Combo Meal               20.0SR
+
+2.Big Chicken Fillet Combo Meal       20.0SR
+
+3.Five Star Combo Meal                20.0SR
+
+4.Chili Lava Meal                     19.0SR
+
+5.Jalapeno Chicken Combo Meal         22.0SR
+
+6.Grand Fahita Spicy Meal             23.0SR
+
+
+Notice: enter the meal's number, and if you want to stop adding, enter 0

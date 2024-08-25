@@ -1,0 +1,22 @@
+
+
+                    McDonalds
+                    
+
+Delivery: 14.0SR                Minumum: 12.0SR
+
+
+1.McChicken Meal                   22.0SR
+
+2.Spicy McChicen Meal              24.0SR
+
+3.McArabia Chicken Meal            24.0SR
+
+4.Grand Chicken Meal               25.0SR
+
+5.Chicken McNuggets                20.0SR
+
+6.Cheeseburger Deluxe              28.0SR
+
+
+Notice: enter the meal's number, and if you want to stop adding, enter 0.

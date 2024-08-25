@@ -1,0 +1,20 @@
+
+                 Burger King
+
+
+Delivery: 13.0SR            Minimum: 13.0SR
+
+
+1.Big King                    63.0SR 
+
+2.Duoble Whopper              71.0SR 
+
+3.Whopper Jr                  40.0SR 
+
+4.Chicken Burger              38.0SR 
+
+5.Rodeo BBQ                   42.0SR 
+
+6.Chicken Royal               52.0SR 
+
+Notice: enter the meal’s Number, and if you want to stop adding, enter 0.
